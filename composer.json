@@ -1,0 +1,7 @@
+{
+  "name": "dario_swain/dependency-level-two",
+  "type": "library",
+  "require": {
+    "dario_swain/dependency-level-three":    "dev-master"
+  }
+}
